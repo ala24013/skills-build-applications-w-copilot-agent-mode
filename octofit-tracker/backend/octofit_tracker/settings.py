@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-n@%#j5ux8xrl6(94^^^yl4(983!sjk$(k9i0gjykx1vn44yi(t
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['obscure-space-rotary-phone-97pgjvp977c7w5-8000.app.github.dev', 'localhost', '127.0.0.1']
 
 
 # Application definition
